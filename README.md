@@ -23,7 +23,7 @@ SystemVerilog, EDA Playground, GitHub
 ## Concepts
 UART Protocol, FSM, Baud Timing, Loopback Testing
 
-![Waveform Output](waveform.png)
+
 
 
 
